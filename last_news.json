@@ -2,7 +2,7 @@
     "title": "Ultima Notizia",
     "content": "Testo dell'ultima notizia",
     "links": [
-        { "title": "Link 1", "url": "https://www.example.com/link1" },
-        { "title": "Link 2", "url": "https://www.example.com/link2" }
+        { "title": "Link 1", "url": "https://www.iclavello.edu.it/la-segreteria-comunica//link1" },
+        { "title": "Link 2", "url": "https://www.iclavello.edu.it/la-segreteria-comunica//link2" }
     ]
 }
